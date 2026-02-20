@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # student-connect
 <img width="200" height="200" alt="STUDENT CONNECT" src="https://github.com/user-attachments/assets/6b18f68e-cb1a-4c4a-925e-dbf4664f0403" />
 
@@ -28,3 +29,7 @@ Implementation of real-world CRUD functionality.
 
 🌐 Purpose
 The system not only simplifies administrative tasks but also acts as a hands-on learning project for students, bridging the gap between theoretical knowledge and practical application in software development.
+=======
+# studentmanagementsystem
+using java fullstack
+>>>>>>> 6121844bebd3495356a858e5e5dd25f0cbee29e5
